@@ -30,4 +30,3 @@
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi?
     ![Langkah 10](https://github.com/superapple8x/Tugas-4-Sistem-Operasi/blob/main/10.png)
 
-Ikuti latihan-latihan ini untuk mempraktikkan keterampilan perintah Linux Anda dan pemahaman tentang izin file, manajemen direktori, dan pengambilan informasi sistem.
