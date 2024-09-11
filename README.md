@@ -4,7 +4,7 @@
    ![Langkah 1](https://github.com/superapple8x/Tugas-4-Sistem-Operasi/blob/main/1.png)
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5.
-   ![Langkah 2](https://github.com/superapple8x/Tugas-4-Sistem-Operasi/blob/main/2.png)
+   ![Langkah 2](https://github.com/superapple8x/Tugas-4-Sistem-Operasi/blob/main/2..png)
 
 3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari dan copy-kan file tersebut ke sub direktori februari dan maret.
    ![Langkah 3](https://github.com/superapple8x/Tugas-4-Sistem-Operasi/blob/main/3.png)
